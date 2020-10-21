@@ -1,16 +1,21 @@
-### Hi there 👋
+Hey 👋
 
-<!--
-**LiamDotPro/liamdotpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Once upon a time entrepreneur and startup founder, now I help startups introduce Project management, Build awesome product teams, Automate production level pipelines, Develop new features and make my colleagues day just a little more exciting :beer:
 
-Here are some ideas to get you started:
+In my spare time I enjoy photography here my [Catalogue of free commerical images I've submitted to unsplash](https://unsplash.com/@lightsonfire)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Thins I'm known for:
+[![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=1a1b27)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=1a1b27)](https://nodejs.org/en/) 
+[![](https://img.shields.io/badge/Go-informational?style=flat&logo=go&logoColor=white&color=1a1b27)](https://golang.org) 
+[![](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js&logoColor=white&color=1a1b27)](https://nodejs.org/en/) 
+[![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=1a1b27)](https://reactjs.org/)
+[![](https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=white&color=1a1b27)](https://www.kernel.org/doc/html/latest/)
+[![](https://img.shields.io/badge/Jest-informational?style=flat&logo=Jest&logoColor=white&color=1a1b27)](https://jestjs.io/)
+[![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=1a1b27)](https://git-scm.com/)
+[![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=1a1b27)](https://www.docker.com/)
+[![](https://img.shields.io/badge/Postgres-informational?style=flat&logo=Postgresql&logoColor=white&color=1a1b27)](https://www.Postgressql.com/)
+[![](https://img.shields.io/badge/Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=1a1b27)](https://cypress.io)
+
+
+![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=liamdotpro&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
