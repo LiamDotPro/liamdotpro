@@ -2,9 +2,9 @@ Hey 👋
 
 Once upon a time entrepreneur and startup founder, now I help startups introduce Project management, Build awesome product teams, Automate production level pipelines, Develop new features and make my colleagues day just a little more exciting :beer:
 
-In my spare time I enjoy photography here is my [Catalogue of free commerical images I've submitted to unsplash](https://unsplash.com/@lightsonfire)
+In my spare time I enjoy photography, here is my [Catalogue of free commerical images I've submitted to unsplash](https://unsplash.com/@lightsonfire)
 
-#### Thins I'm known for:
+#### Tech I'm known for:
 [![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=1a1b27)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=1a1b27)](https://nodejs.org/en/) 
 [![](https://img.shields.io/badge/Go-informational?style=flat&logo=go&logoColor=white&color=1a1b27)](https://golang.org) 
