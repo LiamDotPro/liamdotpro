@@ -1,6 +1,6 @@
 Hey 👋
 
-Once upon a time entrepreneur and startup founder, now I help startups introduce Project management, Build awesome product teams, Automate production level pipelines, Develop new features and make my colleagues day just a little more exciting :beer:
+Once upon a time entrepreneur and startup founder, now I help startups Build awesome product teams, introduce Project management, Automate production level pipelines, Develop new features and make my colleagues day just a little more exciting :beer:
 
 In my spare time I enjoy photography, here is my [Catalogue of free commerical images I've submitted to unsplash](https://unsplash.com/@lightsonfire)
 
