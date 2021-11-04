@@ -16,6 +16,3 @@ In my spare time I enjoy photography, here is my [Catalogue of free commerical i
 [![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=1a1b27)](https://www.docker.com/)
 [![](https://img.shields.io/badge/Postgres-informational?style=flat&logo=Postgresql&logoColor=white&color=1a1b27)](https://www.Postgressql.com/)
 [![](https://img.shields.io/badge/Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=1a1b27)](https://cypress.io)
-
-
-![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=liamdotpro&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
